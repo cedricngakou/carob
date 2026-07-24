@@ -121,9 +121,9 @@ Rules and gotchas:
 - `data_type` "survey" (and the `survey`/`soil_samples` groups) relax some crop/agronomy requirements — see the required-variables logic below.
 - Copy the dataset **title and abstract** verbatim into the quoted string near the top of the function (see the template) so reviewers have context.
 - Do _not_ guess things if they are not reported in the metadata 
-- Do _not_ fill out things you do not know such as "carob_contributor"
+- Use _your_ AI Model name and version as "carob_contributor"
 - Estimate carob_completion (% of variables in the raw data that have been processed) 
-- Estimate carob_effort based on your time spent
+- Estimate carob_effort based on your time spent (typically a fraction of an hour)
 
 ---
 
